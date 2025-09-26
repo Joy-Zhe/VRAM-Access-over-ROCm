@@ -3,3 +3,6 @@ matrix_multiply_demo
 .vscode/
 .cache/
 *.json
+simple_dma_test
+host_to_gpu_dma_test
+gpu_to_host_dma_test
